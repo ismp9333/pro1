@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OperJava",
+            "request": "launch",
+            "mainClass": "OperJava",
+            "projectName": "pro1_72ebc51d"
+        }
+    ]
+}
